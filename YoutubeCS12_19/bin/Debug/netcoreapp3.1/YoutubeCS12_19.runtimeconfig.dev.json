@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\xrlab_user\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\xrlab_user\\.nuget\\packages"
+    ]
+  }
+}
