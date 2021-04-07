@@ -1,3 +1,3 @@
-#Main programer
-###Norman Hsiao###
-#programer
+# Main programer
+### Norman Hsiao
+# programer
