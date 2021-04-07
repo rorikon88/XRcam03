@@ -1,5 +1,7 @@
+Connect us if you are interesting about it:
+csps40608a@gmail.com
 # Main programer
-### Norman Hsiao (csps40608a@gmail.com)
+### Norman Hsiao
 # Programer
 ### 林肇勳(isso)
 ### 遲冠宇
