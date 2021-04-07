@@ -1,6 +1,6 @@
 # Main programer
 ### Norman Hsiao (csps40608a@gmail.com)
-# programer
+# Programer
 ### 林肇勳(isso)
 ### 遲冠宇
 
