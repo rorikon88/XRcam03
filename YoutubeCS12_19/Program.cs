@@ -20,12 +20,12 @@ namespace ConsoleApplication1
         {
             var youtubeService = new YouTubeService(new BaseClientService.Initializer()
             {
-                ApiKey = "AIzaSyDRhElrJPoezreOrV30GXJddw4wBOcyLCo"
+                ApiKey = "Your API key"
             });
 
 
             //string liveChatId = GetliveChatID("RxkGOEIvIKM", youtubeService);
-            string liveChatId = GetliveChatID("LHNwLqza37k", youtubeService);
+            string liveChatId = GetliveChatID("LIVE URL", youtubeService);
 
             await GetLiveChatMessage(liveChatId, youtubeService, null);
 
