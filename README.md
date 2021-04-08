@@ -9,6 +9,7 @@ csps40608a@gmail.com
 # Function
 ### Zoom
 【Zoom】Has been useing in cenima photography for a long time, we control the zoom in Unity virtual camera by using variable resistance and Arduino uno, can make any photographer easy to use.
+Unlike the normal camera, virtual camera can zoom as long as we want without changing the lens on the camera.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42707843/113886745-80484880-97f3-11eb-92c8-768499ad3ba0.gif)
 ### Depth Of Field
