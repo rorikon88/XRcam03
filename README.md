@@ -18,7 +18,7 @@ But there is no depth of field function on Unity 2019's camera (There is on 2018
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/42707843/113887237-e92fc080-97f3-11eb-8af0-bc5bd10c9c4a.gif)
 ### YouTube Chat
-using YouTube live stream API v3, we can plug in the live chat in unity, it can let the audience being a part of the show.
+The big problem of virtual LIVE show is there is no audience in the show, a real person can't get in to the virtual show. So we plug in the chat under the show into the stage by using YouTube stream API v3.
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/42707843/113887447-12e8e780-97f4-11eb-8919-aaff39ad7ce5.gif)
 ### Camera Stabilizer
