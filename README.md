@@ -8,7 +8,7 @@ csps40608a@gmail.com
 
 # Function
 ### Zoom
-we plug in a variable resistor in unity , let camera guy can contral the zoom like a real camra.
+【Zoom】Has been useing in cenima photography for a long time, we control the zoom in Unity virtual camera by using variable resistance and Arduino uno, can make any photographer easy to use.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42707843/113886745-80484880-97f3-11eb-92c8-768499ad3ba0.gif)
 ### Depth Of Field
