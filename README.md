@@ -3,7 +3,7 @@ csps40608a@gmail.com
 # Main programer
 ### Norman Hsiao
 # Programer
-### 林肇勳(isso)
+### 林肇勳(iso)
 ### 遲冠宇
 
 # Function
