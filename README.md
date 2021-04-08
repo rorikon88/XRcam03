@@ -14,6 +14,7 @@ Unlike the normal camera, virtual camera can zoom as long as we want without cha
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/42707843/113886745-80484880-97f3-11eb-92c8-768499ad3ba0.gif)
 ### Depth Of Field
 To be closer with the normal camera,we add depth of field on the virtual camera, that can make every viewer easy to recognize who is the main characters.
+But there is no depth of field function on Unity 2019's camera (There is on 2018's version), so we program it by using the post-processing plug in.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/42707843/113887237-e92fc080-97f3-11eb-8af0-bc5bd10c9c4a.gif)
 ### YouTube Chat
